@@ -90,6 +90,7 @@ char **lsh_split_line(char *line)
         tokens[position] = token;
         position++;
 
+<<<<<<< Updated upstream
         if (position >= bufsize) {
         bufsize += LSH_TOK_BUFSIZE;
         tokens = realloc(tokens, bufsize * sizeof(char*));
@@ -104,6 +105,24 @@ char **lsh_split_line(char *line)
   tokens[position] = NULL;
   return tokens;
 }
+=======
+        if (position >= bufsize)
+        {
+            bufsize += LSH_TOK_BUFSIZE;
+            tokens = realloc(tokens, bufsize * sizeof(char*));
+            if (!tokens)
+            {
+                fprintf(stderr, "lsh: allocation error\n");
+                exit(EXIT_FAILURE);
+            }
+        }
+        token = strtok(NULL, LSH_TOK_DELIM);
+    }
+    tokens[position] = NULL;
+    return tokens;
+}
+
+>>>>>>> Stashed changes
 void lsh_loop(void)
 {
     char *line;
@@ -123,6 +142,7 @@ void lsh_loop(void)
 
 int lsh_launch(char **args)
 {
+<<<<<<< Updated upstream
   pid_t pid, wpid;
   int status;
 
@@ -221,6 +241,36 @@ int lsh_execute(char **args)
     }
 
     return lsh_launch(args);
+=======
+    pid_t pid, wpid;
+    int status;
+
+    pid =fork();
+    if (pid == 0)
+    {
+        //child process
+        if (execvp(args[0], args) == -1)
+        {
+            perror("lsh");
+        }
+        exit(EXIT_FAILURE);
+    }
+    else if (pid < 0)
+    {
+        perror("lsh");
+    }
+    else
+    {
+        //parent process
+        do
+        {
+            wpid = waitpid(pid, &status, WUNTRACED);
+        } while (!WIFEXITED(status) && !WIFSIGNALED(status));
+    }
+
+    return 1;
+
+>>>>>>> Stashed changes
 }
 
 int main(int argc, char **argv)
