@@ -17,13 +17,24 @@ namespace SuperAdventure
         public SuperAdventure()
         {
             InitializeComponent();
-            _player = new Player();
+            _player = new Player(10, 10, 20, 0, 1);
 
+            /*with builtin constructor
+            Location location = new Location();
+            location.ID = 1;
+            location.Name = "Home";
+            location.Description = "This is your house.";
+            */
+
+            //with custom constructor
+            Location location = new Location(1, "Home", "This is your home.");
+
+            /*used before new constructor
             _player.CurrentHitPoints = 10;
             _player.MaximumHitPoints = 10;
             _player.Gold = 20;
             _player.ExperiencePoints = 0;
-            _player.Level = 1;
+            _player.Level = 1;*/
 
             lblHitPoints.Text = _player.CurrentHitPoints.ToString();
             lblGold.Text = _player.Gold.ToString();
