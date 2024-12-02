@@ -3,7 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\SuperAdventure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F195DD8-024A-4EC8-9BEB-A9F4183C4763}|SuperAdventure.csproj|C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\SuperAdventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{69BE071B-86E1-473B-A610-8B537130FAAF}|..\\Engine\\Engine.csproj|c:\\users\\draga\\onedrive - technical university of cluj-napoca\\documents\\project-based-learning\\project-based-learning\\c#\\engine\\randomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F195DD8-024A-4EC8-9BEB-A9F4183C4763}|SuperAdventure.csproj|C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\SuperAdventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F195DD8-024A-4EC8-9BEB-A9F4183C4763}|SuperAdventure.csproj|solutionrelative:superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F195DD8-024A-4EC8-9BEB-A9F4183C4763}|SuperAdventure.csproj|c:\\users\\draga\\onedrive - technical university of cluj-napoca\\documents\\project-based-learning\\project-based-learning\\c#\\superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6F195DD8-024A-4EC8-9BEB-A9F4183C4763}|SuperAdventure.csproj|solutionrelative:superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -43,10 +50,6 @@
       "AbsoluteMoniker": "D:0:0:{69BE071B-86E1-473B-A610-8B537130FAAF}|..\\Engine\\Engine.csproj|c:\\users\\draga\\onedrive - technical university of cluj-napoca\\documents\\project-based-learning\\project-based-learning\\c#\\engine\\healingpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F195DD8-024A-4EC8-9BEB-A9F4183C4763}|SuperAdventure.csproj|c:\\users\\draga\\onedrive - technical university of cluj-napoca\\documents\\project-based-learning\\project-based-learning\\c#\\superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F195DD8-024A-4EC8-9BEB-A9F4183C4763}|SuperAdventure.csproj|solutionrelative:superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{69BE071B-86E1-473B-A610-8B537130FAAF}|..\\Engine\\Engine.csproj|c:\\users\\draga\\onedrive - technical university of cluj-napoca\\documents\\project-based-learning\\project-based-learning\\c#\\engine\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -57,24 +60,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "RandomNumberGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\Engine\\RandomNumberGenerator.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\RandomNumberGenerator.cs",
+              "ToolTip": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\Engine\\RandomNumberGenerator.cs",
+              "RelativeToolTip": "..\\Engine\\RandomNumberGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:05:05.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "World.cs",
               "DocumentMoniker": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\Engine\\World.cs",
               "RelativeDocumentMoniker": "..\\Engine\\World.cs",
               "ToolTip": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\Engine\\World.cs",
               "RelativeToolTip": "..\\Engine\\World.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAQwC4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwC4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T23:26:21.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "QuestCompletionItem.cs",
               "DocumentMoniker": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\Engine\\QuestCompletionItem.cs",
               "RelativeDocumentMoniker": "..\\Engine\\QuestCompletionItem.cs",
@@ -82,12 +98,11 @@
               "RelativeToolTip": "..\\Engine\\QuestCompletionItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T23:07:48.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T23:07:48.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "PlayerQuest.cs",
               "DocumentMoniker": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\Engine\\PlayerQuest.cs",
               "RelativeDocumentMoniker": "..\\Engine\\PlayerQuest.cs",
@@ -95,12 +110,11 @@
               "RelativeToolTip": "..\\Engine\\PlayerQuest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T23:06:10.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T23:06:10.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "LootItem.cs",
               "DocumentMoniker": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\Engine\\LootItem.cs",
               "RelativeDocumentMoniker": "..\\Engine\\LootItem.cs",
@@ -108,12 +122,11 @@
               "RelativeToolTip": "..\\Engine\\LootItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T23:04:29.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T23:04:29.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "InventoryItem.cs",
               "DocumentMoniker": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\Engine\\InventoryItem.cs",
               "RelativeDocumentMoniker": "..\\Engine\\InventoryItem.cs",
@@ -121,12 +134,11 @@
               "RelativeToolTip": "..\\Engine\\InventoryItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T22:57:09.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T22:57:09.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "LivingCreature.cs",
               "DocumentMoniker": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\Engine\\LivingCreature.cs",
               "RelativeDocumentMoniker": "..\\Engine\\LivingCreature.cs",
@@ -134,12 +146,11 @@
               "RelativeToolTip": "..\\Engine\\LivingCreature.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T21:33:07.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T21:33:07.013Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Weapon.cs",
               "DocumentMoniker": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\Engine\\Weapon.cs",
               "RelativeDocumentMoniker": "..\\Engine\\Weapon.cs",
@@ -147,12 +158,11 @@
               "RelativeToolTip": "..\\Engine\\Weapon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T21:24:43.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T21:24:43.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Quest.cs",
               "DocumentMoniker": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\Engine\\Quest.cs",
               "RelativeDocumentMoniker": "..\\Engine\\Quest.cs",
@@ -160,12 +170,11 @@
               "RelativeToolTip": "..\\Engine\\Quest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T21:23:16.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T21:23:16.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Monster.cs",
               "DocumentMoniker": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\Engine\\Monster.cs",
               "RelativeDocumentMoniker": "..\\Engine\\Monster.cs",
@@ -173,12 +182,11 @@
               "RelativeToolTip": "..\\Engine\\Monster.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:02:53.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T15:02:53.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Location.cs",
               "DocumentMoniker": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\Engine\\Location.cs",
               "RelativeDocumentMoniker": "..\\Engine\\Location.cs",
@@ -186,12 +194,11 @@
               "RelativeToolTip": "..\\Engine\\Location.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:01:34.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T15:01:34.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\Engine\\Item.cs",
               "RelativeDocumentMoniker": "..\\Engine\\Item.cs",
@@ -199,12 +206,11 @@
               "RelativeToolTip": "..\\Engine\\Item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:00:00.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T15:00:00.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "HealingPotion.cs",
               "DocumentMoniker": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\Engine\\HealingPotion.cs",
               "RelativeDocumentMoniker": "..\\Engine\\HealingPotion.cs",
@@ -212,12 +218,11 @@
               "RelativeToolTip": "..\\Engine\\HealingPotion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T14:58:28.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T14:58:28.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\Engine\\Player.cs",
               "RelativeDocumentMoniker": "..\\Engine\\Player.cs",
@@ -225,25 +230,24 @@
               "RelativeToolTip": "..\\Engine\\Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T14:39:24.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T14:39:24.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "SuperAdventure.cs",
               "DocumentMoniker": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\SuperAdventure\\SuperAdventure.cs",
               "RelativeDocumentMoniker": "SuperAdventure.cs",
               "ToolTip": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\SuperAdventure\\SuperAdventure.cs",
               "RelativeToolTip": "SuperAdventure.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAA8wEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T13:18:23.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SuperAdventure.cs [Design]",
               "DocumentMoniker": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\SuperAdventure\\SuperAdventure.cs",
               "RelativeDocumentMoniker": "SuperAdventure.cs",
