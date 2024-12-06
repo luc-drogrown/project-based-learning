@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\SuperAdventure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F195DD8-024A-4EC8-9BEB-A9F4183C4763}|SuperAdventure.csproj|C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\SuperAdventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F195DD8-024A-4EC8-9BEB-A9F4183C4763}|SuperAdventure.csproj|c:\\users\\draga\\onedrive - technical university of cluj-napoca\\documents\\project-based-learning\\project-based-learning\\c#\\superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F195DD8-024A-4EC8-9BEB-A9F4183C4763}|SuperAdventure.csproj|solutionrelative:superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -72,8 +72,7 @@
               "RelativeToolTip": "..\\Engine\\RandomNumberGenerator.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T11:05:05.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T11:05:05.946Z"
             },
             {
               "$type": "Document",
@@ -97,8 +96,7 @@
               "RelativeToolTip": "..\\Engine\\QuestCompletionItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T23:07:48.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T23:07:48.273Z"
             },
             {
               "$type": "Document",
@@ -240,7 +238,7 @@
               "RelativeDocumentMoniker": "SuperAdventure.cs",
               "ToolTip": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\SuperAdventure\\SuperAdventure.cs",
               "RelativeToolTip": "SuperAdventure.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAqwEcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T13:18:23.776Z",
               "EditorCaption": ""
@@ -254,8 +252,7 @@
               "ToolTip": "C:\\Users\\draga\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Project-Based-Learning\\project-based-learning\\C#\\SuperAdventure\\SuperAdventure.cs [Design]",
               "RelativeToolTip": "SuperAdventure.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T12:51:01.077Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-29T12:51:01.077Z"
             }
           ]
         }

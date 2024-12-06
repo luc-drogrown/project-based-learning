@@ -14,6 +14,8 @@ namespace Engine
         public int ExperiencePoints { get; set; }
         public int Level {  get; set; }
 
+        public Location CurrentLocation { get; set; }
+
         //lists
         public List<InventoryItem> Inventory {  get; set; }
         public List<PlayerQuest> Quests { get; set; }
