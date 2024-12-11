@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|d:\\gitrepos\\project-based-learning\\project-based-learning\\c#\\roguelike\\roguegame\\core\\dungeonmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|solutionrelative:core\\dungeonmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|d:\\gitrepos\\project-based-learning\\project-based-learning\\c#\\roguelike\\roguegame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|d:\\gitrepos\\project-based-learning\\project-based-learning\\c#\\roguelike\\roguegame\\system\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|solutionrelative:system\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|d:\\gitrepos\\project-based-learning\\project-based-learning\\c#\\roguelike\\roguegame\\system\\commandsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|solutionrelative:system\\commandsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|d:\\gitrepos\\project-based-learning\\project-based-learning\\c#\\roguelike\\roguegame\\interfaces\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|solutionrelative:interfaces\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|d:\\gitrepos\\project-based-learning\\project-based-learning\\c#\\roguelike\\roguegame\\core\\dungeonmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|solutionrelative:core\\dungeonmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|d:\\gitrepos\\project-based-learning\\project-based-learning\\c#\\roguelike\\roguegame\\core\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|solutionrelative:core\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|d:\\gitrepos\\project-based-learning\\project-based-learning\\c#\\roguelike\\roguegame\\core\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|solutionrelative:core\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|d:\\gitrepos\\project-based-learning\\project-based-learning\\c#\\roguelike\\roguegame\\core\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|solutionrelative:core\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|d:\\gitrepos\\project-based-learning\\project-based-learning\\c#\\roguelike\\roguegame\\core\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|solutionrelative:core\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|d:\\gitrepos\\project-based-learning\\project-based-learning\\c#\\roguelike\\roguegame\\interfaces\\iactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|solutionrelative:interfaces\\iactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|d:\\gitrepos\\project-based-learning\\project-based-learning\\c#\\roguelike\\roguegame\\system\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|solutionrelative:system\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21E07386-4B1C-4673-A8F9-CDB9C4599336}|RogueGame.csproj|d:\\gitrepos\\project-based-learning\\project-based-learning\\c#\\roguelike\\roguegame\\core\\swatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +54,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommandSystem.cs",
+              "DocumentMoniker": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\System\\CommandSystem.cs",
+              "RelativeDocumentMoniker": "System\\CommandSystem.cs",
+              "ToolTip": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\System\\CommandSystem.cs",
+              "RelativeToolTip": "System\\CommandSystem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:16:21.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\Core\\Direction.cs",
+              "RelativeDocumentMoniker": "Core\\Direction.cs",
+              "ToolTip": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\Core\\Direction.cs",
+              "RelativeToolTip": "Core\\Direction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:00:11.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\Core\\Player.cs",
+              "RelativeDocumentMoniker": "Core\\Player.cs",
+              "ToolTip": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\Core\\Player.cs",
+              "RelativeToolTip": "Core\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:37:40.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\Core\\Actor.cs",
+              "RelativeDocumentMoniker": "Core\\Actor.cs",
+              "ToolTip": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\Core\\Actor.cs",
+              "RelativeToolTip": "Core\\Actor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:27:57.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IDrawable.cs",
+              "DocumentMoniker": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\Interfaces\\IDrawable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDrawable.cs",
+              "ToolTip": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\Interfaces\\IDrawable.cs",
+              "RelativeToolTip": "Interfaces\\IDrawable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:12:30.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IActor.cs",
+              "DocumentMoniker": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\Interfaces\\IActor.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IActor.cs",
+              "ToolTip": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\Interfaces\\IActor.cs",
+              "RelativeToolTip": "Interfaces\\IActor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:05:11.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MapGenerator.cs",
               "DocumentMoniker": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\System\\MapGenerator.cs",
               "RelativeDocumentMoniker": "System\\MapGenerator.cs",
@@ -42,25 +144,24 @@
               "RelativeToolTip": "System\\MapGenerator.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T14:35:15.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T14:35:15.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DungeonMap.cs",
               "DocumentMoniker": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\Core\\DungeonMap.cs",
               "RelativeDocumentMoniker": "Core\\DungeonMap.cs",
               "ToolTip": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\Core\\DungeonMap.cs",
               "RelativeToolTip": "Core\\DungeonMap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAQwGIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T14:22:21.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Swatch.cs",
               "DocumentMoniker": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\Core\\Swatch.cs",
               "RelativeDocumentMoniker": "Core\\Swatch.cs",
@@ -68,31 +169,30 @@
               "RelativeToolTip": "Core\\Swatch.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAQwBEAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T19:56:21.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T19:56:21.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Colors.cs",
               "DocumentMoniker": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\Core\\Colors.cs",
               "RelativeDocumentMoniker": "Core\\Colors.cs",
               "ToolTip": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\Core\\Colors.cs",
               "RelativeToolTip": "Core\\Colors.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T19:54:52.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Game.cs",
               "DocumentMoniker": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\Game.cs",
               "RelativeDocumentMoniker": "Game.cs",
               "ToolTip": "D:\\GitRepos\\Project-Based-Learning\\project-based-learning\\C#\\RogueLike\\RogueGame\\Game.cs",
               "RelativeToolTip": "Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAcwKgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T12:21:25.271Z",
               "EditorCaption": ""
