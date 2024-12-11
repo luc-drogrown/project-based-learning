@@ -2,6 +2,8 @@
 //Console.WriteLine("Hello, World!");
 
 using RLNET;
+using RogueGame.Core;
+using RogueGame.System;
 
 namespace RogueGame
 {
@@ -32,6 +34,8 @@ namespace RogueGame
         private static readonly int _inventoryHeight = 11;
         private static RLConsole _inventoryConsole;
 
+        public static DungeonMap DungeonMap { get; private set; }
+
         public static void Main()
         {
             string fontFileName = "terminal8x8.png";
@@ -43,7 +47,10 @@ namespace RogueGame
             _messageConsole = new RLConsole(_messageWidth, _messageHeight);
             _statConsole = new RLConsole(_statWidth, _statHeight);
             _inventoryConsole = new RLConsole(_inventoryWidth, _inventoryHeight);
-            
+
+            MapGenerator mapGenerator = new MapGenerator(_mapWidth, _mapHeight);
+            DungeonMap = mapGenerator.CreateMap();
+
             _rootConsole.Update += OnRootConsoleUpdate;
             _rootConsole.Render += OnRootConsoleRender;
 
@@ -55,7 +62,8 @@ namespace RogueGame
             //_rootConsole.Print(10,10, "It worked!", RLColor.White);
 
             //set the background color for each console
-            _mapConsole.SetBackColor(0, 0, _mapWidth, _mapHeight, RLColor.Black);
+            /*this is the first set of colors, using the RLNET standard colors
+             * _mapConsole.SetBackColor(0, 0, _mapWidth, _mapHeight, RLColor.Black);
             _mapConsole.Print(1, 1, "Map", RLColor.White);
 
             _messageConsole.SetBackColor(0, 0, _messageWidth, _messageHeight, RLColor.Gray);
@@ -65,11 +73,26 @@ namespace RogueGame
             _statConsole.Print(1, 1, "Stat", RLColor.White);
 
             _inventoryConsole.SetBackColor(0,0, _inventoryWidth, _inventoryHeight, RLColor.Cyan);
-            _inventoryConsole.Print(1, 1, "Inventory", RLColor.White);
+            _inventoryConsole.Print(1, 1, "Inventory", RLColor.White);*/
+
+            //using the custom color palette
+            _mapConsole.SetBackColor(0, 0, _mapWidth, _mapHeight, Colors.FloorBackground);
+            _mapConsole.Print(1, 1, "Map", Colors.TextHeading);
+
+            _messageConsole.SetBackColor(0, 0, _messageWidth, _messageHeight, Swatch.DbDeepWater);
+            _messageConsole.Print(1, 1, "Message", Colors.TextHeading);
+
+            _statConsole.SetBackColor(0, 0, _statWidth, _statHeight, Swatch.DbOldStone);
+            _statConsole.Print(1, 1, "Stat", Colors.TextHeading);
+
+            _inventoryConsole.SetBackColor(0, 0, _inventoryWidth, _inventoryHeight, Swatch.DbWood);
+            _inventoryConsole.Print(1, 1, "Inventory", Colors.TextHeading);
         }
 
         private static void OnRootConsoleRender(object sender, UpdateEventArgs e)
         {
+            DungeonMap.Draw(_mapConsole);
+
             //blit the subconsoles to the root console in the correct locations
             RLConsole.Blit(_mapConsole, 0,0, _mapWidth, _mapHeight, _rootConsole, 0, _inventoryHeight);
             RLConsole.Blit(_statConsole, 0, 0, _statWidth, _statHeight, _rootConsole, _mapWidth, 0);
